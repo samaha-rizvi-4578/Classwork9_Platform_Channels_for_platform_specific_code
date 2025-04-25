@@ -1,16 +1,10 @@
 # battery_android
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+implementing battery percentage fetching logic in native Android via Kotlin code and use platform channels to pass the results to Dart code.
+## Group Members:
+### GROUP 7
+Members:
+1- Syeda Samaha Batool Rizvi (21k-4578)
+2- Insha Javed (21k-3279)
+3- Muhammad Tahir (21k-4503)
+4- Muhammad Umer (21k-3219)
+![alt text](<WhatsApp Image 2025-04-25 at 7.04.42 AM.jpeg>)
